@@ -1,6 +1,6 @@
 {
   "name": "liquibase",
-  "version": "0.0.3",
+  "version": "0.4.362",
   "description": "Node.js wrap for Liquibase",
   "license": "MIT",
   "repository": "pablodenadai/node-liquibase",
@@ -16,12 +16,11 @@
     "test": "xo && nyc ava --serial"
   },
   "files": [
-    "index.js"
+    "src/index.js"
   ],
   "keywords": [
     "liquibase",
     "sql",
-    "postgresql",
     "migration"
   ],
   "dependencies": {},
